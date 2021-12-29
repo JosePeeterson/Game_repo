@@ -1,0 +1,1 @@
+print('32 black squares, 32 white squares')
