@@ -1,3 +1,3 @@
-print('Chess game')
+print('Chess online game')
 print('black vs white')
 
